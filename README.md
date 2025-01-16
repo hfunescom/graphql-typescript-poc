@@ -198,5 +198,4 @@ Response:
 - [JsonPlaceHolder users API](https://jsonplaceholder.typicode.com/users)
 
 ## Author
-
-Versión 0.0.1 - Hernán Funes (hfunesdev AT gmail)
+- Versión 0.0.1 - Hernán Funes (hfunesdev at gmail) - [@hfunescom](https://hfunes.com)
