@@ -199,4 +199,4 @@ Response:
 
 ## Author
 
-Versión 0.0.1 - Hernán Funes (hernan.funes@itti.digital) - Fraud Squad
+Versión 0.0.1 - Hernán Funes (hfunesdev AT gmail)
